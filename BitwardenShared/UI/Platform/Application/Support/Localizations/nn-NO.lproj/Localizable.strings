@@ -1175,3 +1175,5 @@
 "ExpiresInXDays" = "Utgår om %1$@ dagar";
 "DateRangeXToY" = "%1$@ til %2$@";
 "SelfHostServerURL" = "Self-host server URL";
+"UniversalClipboard" = "Allow Universal Clipboard";
+"UniversalClipboardDescription" = "Use Universal Clipboard to copy here and paste on other devices signed in with the same Apple ID.";

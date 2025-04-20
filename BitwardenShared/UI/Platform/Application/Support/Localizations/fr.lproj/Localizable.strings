@@ -1175,3 +1175,5 @@
 "ExpiresInXDays" = "Expires in %1$@ days";
 "DateRangeXToY" = "%1$@ to %2$@";
 "SelfHostServerURL" = "Self-host server URL";
+"UniversalClipboard" = "Autoriser le Presse-papiers universel";
+"UniversalClipboardDescription" = "Utilisez le Presse-papiers universel pour copier ici et coller sur d'autres appareils connectés avec le même identifiant Apple.";

@@ -1175,3 +1175,5 @@
 "ExpiresInXDays" = "Dni do exspirácie: %1$@";
 "DateRangeXToY" = "%1$@ do %2$@";
 "SelfHostServerURL" = "Adresa URL vlastného hostingu";
+"UniversalClipboard" = "Allow Universal Clipboard";
+"UniversalClipboardDescription" = "Use Universal Clipboard to copy here and paste on other devices signed in with the same Apple ID.";

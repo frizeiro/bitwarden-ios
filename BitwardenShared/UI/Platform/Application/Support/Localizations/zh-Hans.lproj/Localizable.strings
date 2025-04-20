@@ -1175,3 +1175,5 @@
 "ExpiresInXDays" = "%1$@ 天后过期";
 "DateRangeXToY" = "%1$@ 到 %2$@";
 "SelfHostServerURL" = "自托管服务器 URL";
+"UniversalClipboard" = "Allow Universal Clipboard";
+"UniversalClipboardDescription" = "Use Universal Clipboard to copy here and paste on other devices signed in with the same Apple ID.";

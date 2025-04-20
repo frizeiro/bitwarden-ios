@@ -1176,3 +1176,5 @@
 "ExpiresInXDays" = "Expires in %1$@ days";
 "DateRangeXToY" = "%1$@ to %2$@";
 "SelfHostServerURL" = "Self-host server URL";
+"UniversalClipboard" = "Permitir Portapapeles Universal";
+"UniversalClipboardDescription" = "Usa el Portapapeles Universal para copiar aquí y pegar en otros dispositivos con el mismo ID de Apple.";

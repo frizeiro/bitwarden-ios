@@ -1175,3 +1175,5 @@
 "ExpiresInXDays" = "Läuft in %1$@ Tagen ab";
 "DateRangeXToY" = "%1$@ nach %2$@";
 "SelfHostServerURL" = "Self-host server URL";
+"UniversalClipboard" = "Universelle Zwischenablage erlauben";
+"UniversalClipboardDescription" = "Verwenden Sie die universelle Zwischenablage, um hier zu kopieren und auf anderen Geräten mit derselben Apple-ID einzufügen.";

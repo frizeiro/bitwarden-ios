@@ -1175,3 +1175,5 @@
 "ExpiresInXDays" = "Expira em %1$@ dias";
 "DateRangeXToY" = "%1$@ a %2$@";
 "SelfHostServerURL" = "URL do servidor auto-hospedado";
+"UniversalClipboard" = "Permitir Área de Transferência Universal";
+"UniversalClipboardDescription" = "Use a Área de Transferência Universal para copiar aqui e colar em outros dispositivos com o mesmo ID Apple.";

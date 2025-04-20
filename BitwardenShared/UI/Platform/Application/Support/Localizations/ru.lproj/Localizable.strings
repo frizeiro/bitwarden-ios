@@ -1177,3 +1177,5 @@
 "ExpiresInXDays" = "Истекает через %1$@ дней";
 "DateRangeXToY" = "%1$@ в %2$@";
 "SelfHostServerURL" = "URL собственного сервера";
+"UniversalClipboard" = "Allow Universal Clipboard";
+"UniversalClipboardDescription" = "Use Universal Clipboard to copy here and paste on other devices signed in with the same Apple ID.";

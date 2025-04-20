@@ -1175,3 +1175,5 @@
 "ExpiresInXDays" = "Hết hạn sau %1$@ ngày";
 "DateRangeXToY" = "%1$@ đến %2$@";
 "SelfHostServerURL" = "URL máy chủ tự lưu trữ";
+"UniversalClipboard" = "Allow Universal Clipboard";
+"UniversalClipboardDescription" = "Use Universal Clipboard to copy here and paste on other devices signed in with the same Apple ID.";
